@@ -1,6 +1,6 @@
 # Token Creation
 
-This is a simple token creation and desctruction using solidity language as well it stores information about the token
+This is a simple token creation and desctruction using solidity language as well it stores information about the token.
 
 
 
